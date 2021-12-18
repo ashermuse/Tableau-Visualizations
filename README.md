@@ -1,2 +1,2 @@
 # Tableau Visualizations
-Archive of Tableau visualziation made when in undergrad.
+Archive of Tableau visualizations made when in undergrad.
