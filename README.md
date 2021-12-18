@@ -1,2 +1,2 @@
 # Tableau Visualizations
-A collection of visualizations and projects I have made in Tableau.
+Archive of Tableau visualziation made when in undergrad.
